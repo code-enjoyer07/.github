@@ -6,3 +6,4 @@ def welcome_message():
 
 welcome_message()
 ```
+This is a small community for sharing knowledge in the IT field
